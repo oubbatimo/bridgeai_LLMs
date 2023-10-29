@@ -5,8 +5,9 @@ Llama is a collection of pre-trained Llama large language models released by Met
 
 Here we've provided an implementation of the Large Language Model Llama 2 7b. 
 
-1. We host it on the cloud server Replicate, where you need to generate an API-Key.
-2. We use Streamlit to create an interactive app for the Large Language Model Llama.
+1. Llama 2 model with 7B parameters is already hosted on Replicated and we will access this model models through API.
+2. You need to register on replicate and generate an API-Key.
+3. We use Streamlit to create an interactive app for the Large Language Model Llama.
 
    <img width="612" alt="image" src="https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/a4a9c8a8-2833-4713-93ce-5f6c795b4724">
 
