@@ -40,10 +40,6 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.write(message["content"])
 
-#def clear_chat_history():
- #   st.session_state.messages=[{"role":"assistant", "content": "How may I assist you today"}]
-
-#st.sidebar.button('Clear Chat History', on_click=clear_chat_history)
 
 # Create a Function to generate the Llama 2 Response
 def generate_llama2_response(prompt_input):
@@ -68,7 +64,7 @@ if prompt := st.chat_input(disabled=not your_replicate_api):
     with st.chat_message("user"):
         st.write(prompt)
 
-# Generate a New Response if the last message is not from the asssistant
+# Generate a Response from the User-Provided Prompt (if the last message is not from the asssistant)
 
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
