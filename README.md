@@ -7,3 +7,5 @@ Llama is a collection of pre-trained Llama large language models released by Met
 The use of pre-trained large language models (LLMs) can influence a number of ethical issues related to misinformation, copyright, privacy, and transparency.
 Perhaps the most important issues to address are the risk levels and transparency.
 
+Perhaps the most important issues to address are the risk levels and transparency. The current models search for correlation, not causality. To build trust in generative AI models, we need to understand how and why the GenAI model generated
+its outputs, and we should incorporate Subject Matter Expert judgment at appropriate development stages.
