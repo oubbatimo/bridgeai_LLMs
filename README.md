@@ -1,3 +1,2 @@
 # Unlocking Llama 2
-# Project Title
-Pre-Trained Llama 2 7b
+Llama 2 is a collection of pre-trained and fine-tuned Llama large language models -ranging from 7 billion to 70 billion parameters.
