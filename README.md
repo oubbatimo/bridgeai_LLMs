@@ -9,3 +9,6 @@ Perhaps the most important issues to address are the risk levels and transparenc
 
 Perhaps the most important issues to address are the risk levels and transparency. The current GenAI models search for correlation, not causality. To build trust in these models, we need to understand how and why the GenAI model generated
 its outputs, and we should incorporate Subject Matter Expert judgment at appropriate development stages.
+
+Until that level of trust have been reached, we may not want to rely on GenAI outputs that could have a negative impact on individuals or organizations
+
