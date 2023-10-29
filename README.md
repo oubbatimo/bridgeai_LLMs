@@ -5,10 +5,6 @@ Llama is a collection of pre-trained Llama large language models released by Met
 
 Here we've provided an implementation of the Large Language Model Llama 2 7b.
 
-Machine Learning Publications
-https://scholar.google.de/citations?hl=de&user=1u_xuQMAAAAJ&view_op=list_works&sortby=pubdate
-
-
 # Ethical Considerations
 The use of pre-trained large language models (LLMs) can influence a number of ethical issues related to misinformation, copyright, privacy, and transparency.
 
