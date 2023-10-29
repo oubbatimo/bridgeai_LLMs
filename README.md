@@ -5,6 +5,8 @@ Llama is a collection of pre-trained Llama large language models released by Met
 
 Here we've provided an implementation of the Large Language Model Llama 2 7b. We built, deploy, and host it on the cloud server Replicate https://replicate.com/?ref=blog.streamlit.io.![image](https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/3730eeb5-5a91-4f60-8600-6ec2a90ce30b)
 
+![image](https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/65eba1db-34d1-4239-990b-33f5930f46df)
+
 
 # Ethical Considerations
 The use of pre-trained large language models (LLMs) can influence a number of ethical issues related to misinformation, copyright, privacy, and transparency.
