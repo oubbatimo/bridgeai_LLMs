@@ -1,6 +1,4 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
-
-
+<img width="258" alt="image" src="https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/82b3e818-d545-46e5-8eb8-b328bf73b65f">
 
 # Unlocking Llama
 Llama is a collection of pre-trained Llama large language models released by Meta AI.  It encompasses models ranging from 7 billion to 70 billion parameters.
