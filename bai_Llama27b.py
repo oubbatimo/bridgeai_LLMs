@@ -15,7 +15,7 @@ st.title('bridgeai')
 st.subheader('Large Language Model Llama 2 7b')
 
 #Put here your personal Replicate API
-your_replicate_api='r8_CjKZjLK9QccYdcfvkXAgp3ftrDu9JBq499Nzn'
+your_replicate_api='r8_    '
 
 #------------------
 #LLM CONFIGURATION
