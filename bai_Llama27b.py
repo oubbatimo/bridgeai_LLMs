@@ -14,6 +14,9 @@ import replicate
 st.title('bridgeai')
 st.subheader('Large Language Model Llama 2 7b')
 
+#For more information, please visit my website: https://www.bridgeai.de/
+
+
 #Put here your personal Replicate API
 your_replicate_api='r8_    '
 
