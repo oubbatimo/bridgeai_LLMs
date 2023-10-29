@@ -5,5 +5,5 @@ Llama is a collection of pre-trained Llama large language models released by Met
 
 # Ethical Considerations
 The use of pre-trained large language models (LLMs) can influence a number of ethical issues related to misinformation, copyright, privacy, and transparency.
-Perhaps the most important issues to address are the risk levels and transparency.
+Perhaps the most important issues to address are the # risk levels and transparency.
 
