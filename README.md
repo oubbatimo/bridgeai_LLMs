@@ -8,8 +8,7 @@ Here we've provided an implementation of the Large Language Model Llama 2 7b.
 1. We host it on the cloud server Replicate --> you need to generate an API-Key.
 2. We use Streamlit to create an interactive app for the Large Language Model Llama.
 
-
-![image](https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/751953ec-33a9-4ca2-ae01-b1d9b1477394)
+   <img width="612" alt="image" src="https://github.com/oubbatimo/bridgeai_LLMs/assets/92709052/a4a9c8a8-2833-4713-93ce-5f6c795b4724">
 
 
 # Ethical Considerations
